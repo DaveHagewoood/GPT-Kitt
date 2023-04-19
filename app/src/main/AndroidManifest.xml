@@ -12,7 +12,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         tools:targetApi="s">
         <activity
-            android:name="VoskActivity"
+            android:name=".GPTKittActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

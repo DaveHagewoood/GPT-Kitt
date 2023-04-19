@@ -39,7 +39,7 @@ import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
-public class VoskActivity extends Activity implements
+public class GPTKittActivity extends Activity implements
         RecognitionListener {
 
     static private final int STATE_START = 0;
